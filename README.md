@@ -75,4 +75,4 @@
 <img src="./docs/images/NoKaTalkAD.jpeg" width="412px">
 
 ## 📖 읽어보면 좋은 자료들
-- [탈옥의 끝 이제 구글링 안해](./EndOfJailbreak)
+- [탈옥의 끝 이제 구글링 안해💥](./EndOfJailbreak)
