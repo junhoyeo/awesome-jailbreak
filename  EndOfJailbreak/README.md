@@ -48,13 +48,13 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
 - Impactor에 Jailbreak 바이너리 파일을 드래그하면됨
 ※ 주의 `메뉴`-`Xcode`-`Revoke Certificates` 후 해야 안정됨
 
-![iOS%2047e5eea3c7d442358f91daa96b6b325b.png](iOS%2047e5eea3c7d442358f91daa96b6b325b.png)
+![CydiaImpactor](./images/CydiaImpactor.png)
 
 ### Case2. 3uTools 이용
 
 - 따라하기
 
-![iOS%2047e5eea3c7d442358f91daa96b6b325b%201.png](iOS%2047e5eea3c7d442358f91daa96b6b325b%201.png)
+![3uTools](./images/3uTools.png)
 
 ### Case3. [Non-PC] ios-ninja 등 이용
 
@@ -75,13 +75,13 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
 - https://ignition.fun
 - http://cydia.club
 
-![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled.png)
+![iOSNinja](./images/iOSNinja.png)
 
 > ※ Sileo 앱은 iOS 11.x 버전대에 호환 가능
 
 - **Appstore**를 거치지 않고 설치 시 **TrustAuth 과정**이 필요
 
-![iOS%2047e5eea3c7d442358f91daa96b6b325b%202.png](iOS%2047e5eea3c7d442358f91daa96b6b325b%202.png)
+![TrustAuth](./images/TrustAuth.png)
 
 > 위 과정을 거치게 되면, 탈옥 디바이스에서 사용가능한 앱스토어가 설치됨.
 
@@ -94,15 +94,15 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
 - Overview Step of Process
   - iTunes & iCloud **설치** → Altstore **설치** → unc0ver **탈옥**
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/1.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/1.png)
+  ![AltStore-1](./images/AltStore-1.png)
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/2.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/2.png)
+  ![AltStore-2](./images/AltStore-2.png)
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/3.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/3.png)
+  ![AltStore-3](./images/AltStore-3.png)
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/4.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/4.png)
+  ![AltStore-4](./images/AltStore-4.png)
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/26022020_230755_086.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/26022020_230755_086.png)
+  ![AltStore-5](./images/AltStore-5.png)
 
 ### Case5. checkra1n 이용
 
@@ -114,7 +114,7 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
 
 ## 탈옥탐지?(DVIA.ipa기준)
 
-![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%201.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%201.png)
+![Cycript](./images/Cycript.png)
 
 ## 탈옥 프로그램 목록
 
@@ -137,7 +137,7 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
   - ipainstaller는 cydia 내에서 패키지로 설치할 수 도 있다.
   (추출경로: /private/var/mobile/Documents/~)
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%202.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%202.png)
+  ![ipainstaller.png](./images/ipainstaller.png)
 
 2. Fastlane (AppStore용)
   - 참고 : [https://jepark-diary.tistory.com/20?category=874567](https://jepark-diary.tistory.com/20?category=874567)
@@ -147,15 +147,11 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
 
 - ReProvision 이용방법(장점: Signing 까지 가능)
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%203.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%203.png)
+  ![ReProvision-1](./images/ReProvision-1.png)
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%204.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%204.png)
+  ![ReProvision-2](./images/ReProvision-2.png)
 
 - 3uTools 이용방법(장점: 간편함. 드래그 하면되니까 설명안할게)
-
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%203.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%203.png)
-
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%204.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%204.png)
 
 - impactor는...위에 방법이 있지만, 버전 호환 문제로 잘 안돼ㅠㅠ...
 
@@ -163,7 +159,7 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
 
 - 저장소 이용한 설치는 다들 아시죠?
 
-  ![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%205.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%205.png)
+  ![source](./images/source.png)
 
 ※ 트윅이란? 탈옥 시 생성되는 Cydia에서 받을 수 있는 앱
 
@@ -186,7 +182,7 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
   1. cydia에서 cycript 설치
   - 사용법
 
-    ![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%206.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%206.png)
+    ![cycriptUsage](./images/cycriptUsage.png)
 
 7. **명령어**
   1. zip, unzip, tar, vim, wget, Network Commands(SSL Kill Switch, gdb, cacert, libgcc, cycript) 등
@@ -323,7 +319,7 @@ iOS의 경우 자체 보안이 강력하기 때문에 이 보안을 뚫고 들�
     - MobileSubstrate 삭제후 재설치
     - Mterminal 을 이용한 방법
 
-      ![iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%207.png](iOS%2047e5eea3c7d442358f91daa96b6b325b/Untitled%207.png)
+      ![Mterminal](./images/Mterminal.png)
 
 - Cyida의 deb파일 의존성 문제
     - directory : `/var/lib/dpkg/status`
